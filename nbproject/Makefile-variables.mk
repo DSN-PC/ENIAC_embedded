@@ -1,0 +1,20 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# 18F67J60 configuration
+CND_ARTIFACT_DIR_18F67J60=dist/18F67J60/production
+CND_ARTIFACT_NAME_18F67J60=ENIAC.production.hex
+CND_ARTIFACT_PATH_18F67J60=dist/18F67J60/production/ENIAC.production.hex
+CND_PACKAGE_DIR_18F67J60=${CND_DISTDIR}/18F67J60/package
+CND_PACKAGE_NAME_18F67J60=eniac.tar
+CND_PACKAGE_PATH_18F67J60=${CND_DISTDIR}/18F67J60/package/eniac.tar
+# Copy_of_18F67J60 configuration
+CND_ARTIFACT_DIR_Copy_of_18F67J60=dist/Copy_of_18F67J60/production
+CND_ARTIFACT_NAME_Copy_of_18F67J60=ENIAC.production.hex
+CND_ARTIFACT_PATH_Copy_of_18F67J60=dist/Copy_of_18F67J60/production/ENIAC.production.hex
+CND_PACKAGE_DIR_Copy_of_18F67J60=${CND_DISTDIR}/Copy_of_18F67J60/package
+CND_PACKAGE_NAME_Copy_of_18F67J60=eniac.tar
+CND_PACKAGE_PATH_Copy_of_18F67J60=${CND_DISTDIR}/Copy_of_18F67J60/package/eniac.tar
